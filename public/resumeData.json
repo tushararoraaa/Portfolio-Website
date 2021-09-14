@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Tushar Arora",
+    "description":"I am a full-stack web developer and I use MERN stack to develop responsive web pages",
+    "image":"resume2.jpg",
+    "bio":"I am a full-stack web developer and I use MERN stack to develop responsive web pages. Contact me 24*7 for awesome projects at very low-cost prices in a very decent time-frame.",
+    "contactmessage":"Get In Touch for any type of Collaborations or Suggestions are welcomed.",
+    "email": "codehammer64@gmail.com",
+    "phone": "+91-7733875777",
+    "github":"https://github.com/tushararoraaa",
+    "address":{
+      "street":"5123B Sector 38 West",
+      "city":"Chandigarh,",
+      "state":"IN",
+      "zip": "160036"
+    },
+    "website": "https://github.com/tushararoraaa",
+    "resumedownload":"https://drive.google.com/file/d/1UCroTc0QRd1VVZAqflQrIRZIko4rEd0y/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/tushararoraaa",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tushar_aroraaa",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tushararoraaa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University Institute Of Engineering and Technology, Panjab University Chandigarh",
+        "degree":"B.E. CSE (2019-2023) ",
+        "graduated":"",
+        "description":"CGPA:- 8.0/10.0"
+      },
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"ALL IT SERVICES",
+        "title":"React Developer ",
+        "years":"JULY 2021 - AUGUST 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"CLOUD TECHTIQ PVT LTD JAIPUR",
+        "title":"Software Tester",
+        "years":"August 2021 - September 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"JS",
+        "level":"50%"
+      },
+      {
+        "name":"REACT.JS",
+        "level":"90%"
+      },
+      {
+        "name":"NODE.JS",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDb",
+        "level":"50%"
+      },
+      {
+        "name":"C++ & Problem-Solving",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"E-Commerce Website",
+        "category":"Amazon Clone",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
